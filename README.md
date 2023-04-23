@@ -15,5 +15,5 @@ To improve the model performance we increase the number of hidden layers, unties
 Our first model achieved test accuracy of 0.736 as show in the screenshot.
 ![Over_sampling](https://github.com/Zainab1979/Neural_Network_Charity_Analysis/blob/27c20d932842e4b4a70f4006d5a2facba85e85a5/accuracy1.png) <br> 
 
-
-![Over_sampling](https://github.com/Zainab1979/Neural_Network_Charity_Analysis/blob/27c20d932842e4b4a70f4006d5a2facba85e85a5/accuracy1.png) <br> 
+Our secend model achieved test accuracy of0.7341 as show in the screenshot.
+![Over_sampling](https://github.com/Zainab1979/Neural_Network_Charity_Analysis/blob/cfdcd680bc0894526ecd730b7c73b378fe57bf37/accuracy2%20(2).png) <br> 
