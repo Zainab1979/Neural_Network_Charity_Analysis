@@ -13,4 +13,4 @@ We used Relu activation function for all hidden layers and train the model for 2
 To improve the model performance we increase the number of hidden layers, unties and epochs.
 - Summary:
 Our first model achieved test accuracy of 0.736 as show in the screenshot.
-![Over_sampling](https://github.com/Zainab1979/Amazon_Vine_Analysis/blob/93ccb7e935ec973ec428a1952da0007c729aa331/unpaid_vine_%20reviwes.png) <br> 
+![Over_sampling]() <br> 
