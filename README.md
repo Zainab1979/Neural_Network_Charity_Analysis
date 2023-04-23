@@ -13,4 +13,7 @@ We used Relu activation function for all hidden layers and train the model for 2
 To improve the model performance we increase the number of hidden layers, unties and epochs.
 - Summary:
 Our first model achieved test accuracy of 0.736 as show in the screenshot.
-![Over_sampling]() <br> 
+![Over_sampling](https://github.com/Zainab1979/Neural_Network_Charity_Analysis/blob/27c20d932842e4b4a70f4006d5a2facba85e85a5/accuracy1.png) <br> 
+
+
+![Over_sampling](https://github.com/Zainab1979/Neural_Network_Charity_Analysis/blob/27c20d932842e4b4a70f4006d5a2facba85e85a5/accuracy1.png) <br> 
