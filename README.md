@@ -12,3 +12,4 @@ We desied nural network with four hidden layers that have 300,200,100 and 50 in 
 We used Relu activation function for all hidden layers and train the model for 200 epochs.
 To improve the model performance we increase the number of hidden layers, unties and epochs.
 - Summary:
+Our first model achieved test accuracy of 0.736 as show in the screenshot.
